@@ -1,4 +1,3 @@
-Certainly! Below is a template for a README file for a GitHub project that involves converting gestures to voice using Mediapipe and Google Text-to-Speech (gTTS).
 
 ```markdown
 # Gesture to Voice Converter using Mediapipe and gTTS
